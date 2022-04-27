@@ -66,6 +66,7 @@
 ### Mentorship Updates
 
 - Reached out to juniors to introduce self as knowledge source
+  (Bongjoon, Payton)
 
 ### Interviews & referrals
 
